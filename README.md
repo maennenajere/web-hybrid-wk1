@@ -13,15 +13,16 @@ Calculates heart rate limits for doing sports based on the user's age.
 ## How to Run 
 
 1. Clone the repository:
-   ```bash
+    ```bash
    git clone https://github.com/maennenajere/web-hybrid-wk1
    cd week1-target-heart-rate
-Install dependencies:
-
-npm install
-
-Start the application:
-
-npx expo start
-
-Test the app using an emulator or physical device with Expo Go. 📚🎨🔄
+    ```
+2. Install dependencies: 
+    ```bash
+    npm install
+    ```
+3. Start the application:
+    ```bash
+    npx expo start
+    ```
+4. Test the app using an emulator or physical device with Expo Go.
